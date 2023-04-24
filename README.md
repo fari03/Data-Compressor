@@ -43,7 +43,7 @@ Compressed String: 0100101111110111010011011010111001111
 ```
 
 ## References
-Huffman coding - Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding
-PriorityQueue - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/PriorityQueue.html
-Scanner - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html
-PrintWriter - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/PrintWriter.html
+Huffman coding - Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding<br>
+PriorityQueue - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/PriorityQueue.html<br>
+Scanner - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html<br>
+PrintWriter - Oracle Java Documentation: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/PrintWriter.html<br>
