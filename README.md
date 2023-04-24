@@ -1,4 +1,4 @@
-# Huffman Data Compressor
+# Huffman Encoder
 
 This is a Java program that implements Huffman Coding Algorithm to compress input data.
 
