@@ -1,6 +1,8 @@
 # Huffman Encoder
 
 This is a Java program that implements Huffman Coding Algorithm to compress input data.
+![1](https://github.com/fari03/Huffman-Encoder/assets/92734995/3fb4d3e1-fc8c-4ace-b1df-60778735a72a)
+
 
 ## Usage
 
